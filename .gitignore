@@ -1,0 +1,14 @@
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Environment variables
+.env
+# Random folders (your specific ones)
+8c6976e5b5410415/
+f8c88490871f6169/
+
+poetry.lock
+pyproject.toml
