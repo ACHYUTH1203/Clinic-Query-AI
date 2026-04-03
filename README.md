@@ -54,8 +54,8 @@ Here is visual proof of the extra credit features implemented to ensure a produc
 - A free Google Gemini API Key (Get one at [Google AI Studio](https://aistudio.google.com/apikey))
 ### 2. Clone the Repository
     
-    git clone [https://github.com/ACHYUTH1203/Clinic-Query-AI.git](https://github.com/ACHYUTH1203/Clinic-Query-AI.git)
-    cd clinicqueryai
+    git clone https://github.com/ACHYUTH1203/Clinic-Query-AI.git
+    cd Clinic-Query-AI
 
 ### 3\. Configure Environment Variables
 
